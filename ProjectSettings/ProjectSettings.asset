@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 13
-  productGUID: 567731ef9c5066f46a4de2147861a8ac
+  productGUID: 5acf86ce63bbe674991f26f52a1391b8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -599,10 +599,12 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    Collab: 1
+    UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 7f22829c-f38a-441e-9584-f69b047e5d8f
+  cloudProjectId: 672b56e1-86b8-4e01-b155-66a5a246a20a
   projectName: Cashier Simulator
   organizationId: jayson-cauble
   cloudEnabled: 0
